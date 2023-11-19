@@ -2,3 +2,6 @@ venv/
 venv-req.txt
 instance/
 flask-hello-world.py
+requirements.txt
+demo.db
+Dockerfile
